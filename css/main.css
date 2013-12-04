@@ -1,0 +1,33 @@
+body {
+    color: #333333;
+    margin-top: 40px;
+}
+
+.header {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.header h1.gr-eg {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 72px;
+}
+
+.header h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+}
+
+.social-icons {
+    font-size: 24px;
+    font-size: 32px;
+}
+
+.social-icons a {
+    margin: 0 15px;
+    color: #333333;
+}
+
+.social-icons a:hover {
+   color: #2980b9;
+   cursor: pointer;
+}
