@@ -3,6 +3,19 @@ body {
     margin-top: 40px;
 }
 
+a {
+  color: #333333;
+  text-weight: bold;
+  border-bottom: 1px solid #000;
+  padding-bottom: 2px;
+}
+
+a:hover {
+  color: #EA4D67;
+  text-decoration: none;
+  border-bottom-color: #EA4D67;
+}
+
 .header {
     font-family: 'Quicksand', sans-serif;
 }
@@ -25,6 +38,7 @@ body {
 .social-icons a {
     margin: 0 15px;
     color: #333333;
+    border-bottom: none;
 }
 
 .social-icons a:hover {
